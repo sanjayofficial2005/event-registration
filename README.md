@@ -36,6 +36,7 @@ Publish the website in the given URL.
 Figma
 
 ## PROGRAM :
+```python
 /* Home Page */
 
 position: relative;
@@ -166,6 +167,7 @@ height: 143px;
 left: 106px;
 top: 106px;
 background: url(logo.jpg);
+```
 
 ## OUTPUT:
 ![homepage](https://github.com/sanjayofficial2005/event-registration/assets/148048602/604d29c9-e13b-4271-895b-2c2e7375fde9)
